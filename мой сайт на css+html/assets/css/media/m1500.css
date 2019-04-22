@@ -1,0 +1,12 @@
+.image-lent2 > div {
+	width: 45%;
+}
+
+.image-lent2 {
+	padding: 50px;
+	justify-content: center;
+}
+
+.radio-flex {		
+	bottom: 10%;
+}
